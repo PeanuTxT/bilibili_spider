@@ -1,6 +1,6 @@
 # bilibili 弹幕爬虫
 
-## 简易爬虫使用步骤：
+## 简易爬虫使用说明：
 
 1.运行simple_spider.exe
 
