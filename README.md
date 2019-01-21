@@ -1,2 +1,1 @@
-# bilibili_spider
-bilibili 爬虫
+# bilibili 弹幕爬虫
