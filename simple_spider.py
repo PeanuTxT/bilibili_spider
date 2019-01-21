@@ -83,10 +83,8 @@ if __name__ == '__main__':
         with open('av_number.txt') as f:
             av_list = [x.replace('\n', '') for x in f.readlines()]
 
-
     get_xml_file(av_list)
     print('=============\n')
-
     print(u'弹幕爬取完成...')
     print(u'2秒后自动退出程序...')
     time.sleep(2)
