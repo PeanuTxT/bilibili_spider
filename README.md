@@ -1,5 +1,7 @@
 # bilibili 弹幕爬虫
 
+<img src="https://github.com/PeanuTxT/picture_warehouse/blob/master/bilibili_spider/bilibili.jpg" width=256 height=256 />
+
 ## 简易爬虫使用说明：
 
 * ### 单视频爬取
