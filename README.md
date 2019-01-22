@@ -30,6 +30,6 @@
 
 4.动态排名可视化视频演示：https://www.bilibili.com/video/av41269163
 
-5.2018全年结果预览图
+5.2018鬼畜区【调教x人力】弹幕排行预览图
 
 <img src="https://github.com/PeanuTxT/picture_warehouse/blob/master/bilibili_spider/2018_guichuzone_danmu_rank.png" width=100% height=100% />
